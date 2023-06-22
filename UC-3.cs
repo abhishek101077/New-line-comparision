@@ -8,7 +8,7 @@ namespace LineComparision
 {
     public class UC_3
     {
-        public static void solution()
+        public void solution()
         {
             //Line One print
 
